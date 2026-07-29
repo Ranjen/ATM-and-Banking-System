@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:212225040331
-# Name:RANJEN MUNUSWAMY K B
-# Date:29/07/2026
+# Reg No: 212225040331
+# Name: RANJEN MUNUSWAMY K B
+# Date: 29/07/2026
 
 
 # AIM:
@@ -31,7 +31,7 @@ To develop the ATM and Banking System using Star UML
 
 # UML DIAGRAMS
 
-# USE CASE DIAGRAM
+# USE CASE DIAGRAM:
 
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
 
@@ -50,7 +50,7 @@ Specifying the context and requirements of a system
 <img width="842" height="787" alt="USE CASE DIAGRAM" src="https://github.com/user-attachments/assets/12fd01f2-c212-4e7f-9cda-0843c0f12c80" />
 
 
-# CLASS DIAGRAM
+# CLASS DIAGRAM:
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
@@ -101,7 +101,7 @@ Describe the steps performed in a UML use case.
 <img width="433" height="835" alt="ACTIVITY DIAGRAM" src="https://github.com/user-attachments/assets/10458ff7-7672-4798-8637-c5008367b5d7" />
 
 
-# SEQUENCE DIAGRAM
+# SEQUENCE DIAGRAM:
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
