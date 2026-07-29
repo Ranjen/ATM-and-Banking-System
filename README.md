@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040331
+# Name:RANJEN MUNUSWAMY K B
+# Date:29/07/2026
 
 
 # AIM:
@@ -47,11 +47,7 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
-
-
-
-
-
+<img width="842" height="787" alt="Screenshot 2026-07-29 092544" src="https://github.com/user-attachments/assets/12fd01f2-c212-4e7f-9cda-0843c0f12c80" />
 
 
 # CLASS DIAGRAM
@@ -68,6 +64,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="633" height="608" alt="Screenshot 2026-07-29 092557" src="https://github.com/user-attachments/assets/dbf71962-11b4-421a-a621-10ea8e7231f7" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -107,7 +104,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-
+<img width="433" height="835" alt="Screenshot 2026-07-29 094247" src="https://github.com/user-attachments/assets/10458ff7-7672-4798-8637-c5008367b5d7" />
 
 
 # SEQUENCE DIAGRAM
