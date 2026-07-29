@@ -73,8 +73,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
-
+<img width="832" height="582" alt="Screenshot 2026-07-29 095738" src="https://github.com/user-attachments/assets/aed4e4a8-0184-433b-98be-7dd8659d05b6" />
 
 # PACKAGE DIAGRAM:
 
