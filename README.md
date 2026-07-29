@@ -106,7 +106,7 @@ Describe the steps performed in a UML use case.
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
-
+<img width="692" height="809" alt="SEQUENCE DIAGRAM" src="https://github.com/user-attachments/assets/8b2c092e-4c3d-4c89-b266-7d94c50ee82e" />
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
